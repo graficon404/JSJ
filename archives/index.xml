@@ -1,0 +1,32 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archives on Jorge Solá Jais</title>
+    <link>http://jorgesolajais.com.ar/archives/</link>
+    <description>Recent content in Archives on Jorge Solá Jais</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 03 Jul 2020 12:27:02 -0300</lastBuildDate>
+    
+        <atom:link href="http://jorgesolajais.com.ar/archives/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2020</title>
+      <link>http://jorgesolajais.com.ar/archives/2020/</link>
+      <pubDate>Fri, 03 Jul 2020 12:27:02 -0300</pubDate>
+      
+      <guid>http://jorgesolajais.com.ar/archives/2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2019</title>
+      <link>http://jorgesolajais.com.ar/archives/2019/</link>
+      <pubDate>Mon, 30 Dec 2019 12:13:34 -0300</pubDate>
+      
+      <guid>http://jorgesolajais.com.ar/archives/2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
