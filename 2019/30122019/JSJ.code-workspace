@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\Vue-Tutorial-Agenda-App-master"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\MDB"
+		},
+		{
+			"path": "..\\..\\.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "senador"
+	}
+}
