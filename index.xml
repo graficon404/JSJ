@@ -5,10 +5,19 @@
     <description>Recent content on Jorge Solá Jais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 03 Jul 2020 12:27:02 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2020 18:01:17 -0300</lastBuildDate>
     
         <atom:link href="http://jorgesolajais.com.ar/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Posts</title>
+      <link>http://jorgesolajais.com.ar/post/</link>
+      <pubDate>Sun, 12 Jul 2020 18:01:17 -0300</pubDate>
+      
+      <guid>http://jorgesolajais.com.ar/post/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Proyectos</title>
@@ -16,7 +25,12 @@
       <pubDate>Sat, 04 Jul 2020 12:53:28 -0300</pubDate>
       
       <guid>http://jorgesolajais.com.ar/proyectos/</guid>
-      <description>Proyectos presentados</description>
+      <description>Extractos de Proyectos presentados
+Años: 2020 - 2019 - 2018 - 2017 - 2016
+ Año 2020 Expte.: S/000108/2020
+SOLICTAR AL P.E.P LO PETICIONADO MEDIANTE RESOLUCIONES PARLAMENTARIAS C.S. N° 076/19 &amp;ldquo;CUBRIR CON EL SERVICIO DE AGENTES SANITARIOS A LOS PARAJES DE LAS VILLAS, EL TOLAR Y AMPUNJACO EN EL DELPARTAMENTO BELEN.-
+Expte.: S/000051/2020
+S/ LA CREACION DE LA CAMARA DE APELACIONES EN LO CIVIL, COMERCIAL, MINAS, FAMILIA, LABORAL Y PENAL DE CUARTA NOMINACION, CON ASIENTO EN LA CIUDAD DE BELEN.</description>
     </item>
     
     <item>
@@ -27,18 +41,9 @@
       <guid>http://jorgesolajais.com.ar/contacto/</guid>
       <description>Domicilio postal:
  Ayacucho esq. República 1° piso Of. Belén (4700) - San F. del V. de Catamarca  Teléfono fijo:
- +54 0383 4455600 interno 326  Celular:
+ +54 0383 4455600 internos 219-611  Celular:
  +5493834041591  E-mail:
- - </description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>http://jorgesolajais.com.ar/post/</link>
-      <pubDate>Fri, 03 Jul 2020 12:27:02 -0300</pubDate>
-      
-      <guid>http://jorgesolajais.com.ar/post/</guid>
-      <description></description>
+ jsolajais@senadodecatamarca.gob.ar  </description>
     </item>
     
   </channel>
